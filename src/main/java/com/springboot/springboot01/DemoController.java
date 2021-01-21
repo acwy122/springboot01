@@ -8,7 +8,7 @@ public class DemoController {
 
     @RequestMapping("/index")
     public String index(String posId) {
-        return "hello springboot!" + posId;
+        return "hello springboot!!!!!" + posId;
     }
 
 }
